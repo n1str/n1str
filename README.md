@@ -1,7 +1,4 @@
 # Привет!  
-
-![Header](https://user-images.githubusercontent.com/123456/your-header-image.png)
-
 ---
 
 ## 🛠️ Мой стек технологий:  
