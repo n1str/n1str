@@ -1,9 +1,8 @@
-# 👋 Привет, я n1str
+# 👋 Привет
 
-## 🚀 DevOps Engineer | Backend Background
+## 🚀 DevOps / SRE Engineer | Backend Background
 
-Я DevOps-инженер с сильным опытом в backend-разработке и инфраструктуре.  
-Люблю автоматизацию, отказоустойчивые системы и сложные инженерные задачи.
+DevOps / SRE-инженер.  
 
 ---
 
@@ -17,12 +16,25 @@
 
 ---
 
-### 🔹 DevOps & Infrastructure
+### 🔹 DevOps / SRE
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+---
+
+### 🔹 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+### 🔹 Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 ---
 
@@ -34,11 +46,10 @@
 ---
 
 ## 📌 What I do
-- Build and automate infrastructure
-- Design CI/CD pipelines
-- Work with Kubernetes & Linux
-- Develop backend services
-- Solve non-standard engineering problems
+- Build reliable production systems
+- Design CI/CD & Kubernetes infrastructure
+- Monitoring, logging & alerting
+- Improve system reliability (SRE mindset)
 
 ---
 
@@ -47,4 +58,6 @@
 
 ---
 
-📫 Open to interesting projects and collaboration
+📫 Open to interesting DevOps / SRE challenges
+
+hardminesu@gmail.com
