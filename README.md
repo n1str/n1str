@@ -1,6 +1,6 @@
 # 👋 Привет
 
-## 🚀 DevOps / SRE Engineer | Backend Background
+## 🚀 DevOps / SRE 
 
 DevOps / SRE-инженер.  
 
