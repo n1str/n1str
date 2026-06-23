@@ -63,9 +63,16 @@ DevOps / SRE-инженер.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1str&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" />
 </p>
-
+ 
 ---
-
-📫 Open to interesting DevOps / SRE challenges
-
-hardminesu@gmail.com
+ 
+## 📫 Contact
+ 
+Открыт к интересным DevOps / SRE задачам.
+ 
+[![Email](https://img.shields.io/badge/Email-hardminesu@gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardminesu@gmail.com)
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" width="100%"/>
+</p>
+ 
