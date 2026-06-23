@@ -54,7 +54,15 @@ DevOps / SRE-инженер.
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1str&layout=compact&theme=radical)
+ 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n1str&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1str&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7" />
+</p>
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1str&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" />
+</p>
 
 ---
 
