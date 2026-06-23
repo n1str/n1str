@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Reliability+over+heroics;Observability+by+default;Automate+the+boring%2C+monitor+the+rest" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=%24+kubectl+apply+-f+reallife.yaml;Reliability+over+heroics;Observability+by+default;Automate+the+boring%2C+monitor+the+rest" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,6 +14,7 @@
 ## 👋 Привет
 
 SRE-инженер в финтехе.
+
 ---
 
 ## 🛠️ Tech Stack
